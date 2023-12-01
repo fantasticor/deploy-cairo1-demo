@@ -131,7 +131,7 @@ And don't forget to add cool functionnalities to your contract.
 The Starknet edu team will release soon the Cairo 1 version of [Cairo-101](https://github.com/starknet-edu/starknet-cairo-101). In the meanwhile, you can get ideas of what to do with Cairo 1 with [Starklings-cairo1](https://github.com/shramee/starklings-cairo1)
 
 ## Do you want to learn more?
-If you are interested in 
+Do the following
 - Learning how to develop cool stuff on Starknet
 - How Starknet works
 - What Cairo is
